@@ -1,0 +1,3138 @@
+[
+   [
+      "How are the vertical modes of the Autoflight System engaged and disengaged?",
+      "How are the vertical, lateral, and AT modes of the Autoflight System engaged and disengaged?",
+      0,
+      3,
+      -0.003466364741325334
+   ],
+   [
+      "What happens to incompatible modes when one of these is selected?",
+      "What happens to incompatible Autoflight System modes when one of them is selected via the Flight Control Panel?",
+      0,
+      4,
+      -0.013901963829994202
+   ],
+   [
+      "And what about the Altitude Select (ALTS) Mode?",
+      "What does the Altitude Select (ALTS) Mode do?",
+      0,
+      6,
+      -0.01784351766109471
+   ],
+   [
+      "What about the Underspeed (USPD) Mode?",
+      "What is the function of the Underspeed (USPD) Mode?",
+      0,
+      11,
+      -0.026294600963592485
+   ],
+   [
+      "What pitch angle and airspeed does the Windshear Escape Mode (WS) maintain?",
+      "What pitch angle and indicated airspeed does the Windshear Escape Mode (WS) maintain?",
+      0,
+      12,
+      -0.023098169267177615
+   ],
+   [
+      "What pitch guidance does the Takeoff (TO) Mode provide after aircraft lifts off for two engine operation?",
+      "What pitch guidance does the Takeoff (TO) Mode provide after aircraft lifts off during two-engine operation?",
+      0,
+      13,
+      -0.007568392157554671
+   ],
+   [
+      "What is the target speed for a normal takeoff in this mode?",
+      "What is the target speed for takeoff in the Takeoff (TO) mode with two engine operation?",
+      0,
+      16,
+      -0.001706920564174652
+   ],
+   [
+      "If One Engine Inoperative occurs and the TO Mode is active, what happens to the speed reference if the current indicated airspeed is above V2+10 kt?",
+      "If the aircraft experiences a one-engine inoperative condition and the Takeoff (TO) Mode is engaged, what is the speed reference when the current indicated airspeed is above V2+10 kt?",
+      0,
+      17,
+      -0.021604233980178855
+   ],
+   [
+      "What is the pitch command upper limit of the FD in this mode?",
+      "What is the pitch command upper limit of the Flight Director in Takeoff Mode?",
+      0,
+      20,
+      -0.001173782348632857
+   ],
+   [
+      "Where are the CDUs located?",
+      "What are the CDU locations?",
+      2,
+      5,
+      -0.017937248945236184
+   ],
+   [
+      "What specific information does the PROGRESS 2/2 page display?",
+      "What information is displayed on the PROGRESS 2/2 page?",
+      2,
+      14,
+      -0.012510718405246757
+   ],
+   [
+      "What happens when one of these is selected?",
+      "What is the function of the pushbuttons on the Flight Control Panel (FCP)?",
+      3,
+      5,
+      -0.05549432635307311
+   ],
+   [
+      "How does the Altitude Select (ALTS) Mode function compared to the Altitude Hold Mode (ALT)?",
+      "What is the difference in functionality between the Altitude Select (ALTS) Mode and the Altitude Hold (ALT) Mode?",
+      3,
+      7,
+      -0.01673954725265503
+   ],
+   [
+      "What does the FLC Mode do during climb or descent?",
+      "How does the FLC Mode function during climb or descent?",
+      3,
+      8,
+      -0.026688413321971916
+   ],
+   [
+      "What is the function of the Approach (APPR) Mode - Glideslope (GS) Mode?",
+      "What is the function of the Approach (APPR) Mode, specifically when the Glideslope (GS) mode is engaged?",
+      3,
+      10,
+      -0.011997556686401345
+   ],
+   [
+      "How is the Go-around (GA) Mode selected when the aircraft is in flight?",
+      "How is the Go-around (GA) Mode engaged and disengaged?",
+      3,
+      14,
+      -0.013099987804889635
+   ],
+   [
+      "How can the FMS position be updated by the crew to increase navigation accuracy?",
+      "During the cruise phase, what methods can the crew use to update the FMS position to improve navigation accuracy?",
+      4,
+      4,
+      -0.005577737092971713
+   ],
+   [
+      "What about en route?",
+      "What actions are taken by the Pilot Flying and Pilot Monitoring during the cruise phase of flight?",
+      4,
+      6,
+      -0.10750582888722421
+   ],
+   [
+      "What is the first thing to verify before normally opening one of these exits from the inside?",
+      "What is the first step in disarming an emergency exit slide from the inside?",
+      5,
+      5,
+      -0.009056071937084131
+   ],
+   [
+      "What position must the door lever (inner) (5) be in to open it?",
+      "What is the position of the inner door lever (5) for opening the door?",
+      5,
+      6,
+      -0.022629284858703635
+   ],
+   [
+      "Which radio can the FMS directly tune?",
+      "Which radio tuning method is considered secondary?",
+      6,
+      7,
+      -0.01112432479858394
+   ],
+   [
+      "In Automatic Tuning mode, what does the FMS automatically tune?",
+      "Which radio does the FMS directly tune in AUTO mode?",
+      6,
+      9,
+      -0.01144058406352999
+   ],
+   [
+      "How can COM, NAV, and ADF radios be tuned?",
+      "What are the methods for tuning COM, NAV, and ADF radios on the ARJ21 aircraft?",
+      6,
+      12,
+      -0.013850614428520203
+   ],
+   [
+      "On these pages, what color shows the RADIO TUNING title line?",
+      "What color is the RADIO TUNING title line on the TUNE pages?",
+      6,
+      14,
+      -0.0030521333217621294
+   ],
+   [
+      "What happens when a vertical Mode is selected?",
+      "How are vertical modes engaged and disengaged through the Flight Control Panel?",
+      7,
+      5,
+      -0.05713935345411303
+   ],
+   [
+      "What does the Pitch (PTCH) Mode do?",
+      "What is the function of the Pitch (PTCH) Mode?",
+      7,
+      6,
+      -0.003950598835945063
+   ],
+   [
+      "And what about the Altitude Select (ALTS) Mode?",
+      "What does the Altitude Select (ALTS) Mode do?",
+      7,
+      7,
+      -0.01784351766109471
+   ],
+   [
+      "What is the purpose of the Altitude Hold Mode (ALT)?",
+      "What is the function of the Altitude Hold Mode (ALT)?",
+      7,
+      8,
+      -0.01035376638174057
+   ],
+   [
+      "Can you describe the function of the Vertical Speed Mode (VS)?",
+      "What does the Vertical Speed Mode (VS) do?",
+      7,
+      9,
+      -0.009111061692237854
+   ],
+   [
+      "What about the Flight Level Change (FLC) Mode, what does it do?",
+      "What is the function of the Flight Level Change (FLC) Mode?",
+      7,
+      10,
+      -0.0014194846153259277
+   ],
+   [
+      "What does the Approach (APPR) Mode - Glideslope (GS) Mode do?",
+      "What does the Glideslope (GS) mode of the Approach (APPR) mode do?",
+      7,
+      12,
+      -0.03668036609888081
+   ],
+   [
+      "And the Takeoff (TO) Mode?",
+      "What does the Takeoff (TO) Mode do?",
+      7,
+      13,
+      -0.08248042613267903
+   ],
+   [
+      "What about the Go-around (GA) Mode?",
+      "What is the function of the Go-around (GA) Mode?",
+      7,
+      14,
+      -0.026960897445678644
+   ],
+   [
+      "What is the function of the Overspeed (OSPD) Mode?",
+      "What does the Overspeed (OSPD) Mode do?",
+      7,
+      15,
+      -0.003648272156715371
+   ],
+   [
+      "How about the Underspeed (USPD) Mode?",
+      "What does the Underspeed (USPD) Mode do?",
+      7,
+      16,
+      -0.031036724150180772
+   ],
+   [
+      "When is the GS Mode armed automatically as part of ILS approach?",
+      "When is the Approach (APPR) Mode - Glideslope (GS) Mode automatically armed for an ILS approach?",
+      7,
+      18,
+      -0.009601342678070113
+   ],
+   [
+      "What about the Pilot Monitoring; what page should he select then?",
+      "During the cruise phase, what page should the Pilot Monitoring select?",
+      8,
+      1,
+      -0.01784308701753612
+   ],
+   [
+      "What are some activities a pilot might need to perform during it?",
+      "What are some activities a pilot might need to perform during the cruise phase of flight?",
+      8,
+      3,
+      -0.007456529140472401
+   ],
+   [
+      "What are the default values shown for the parameters on its pages?",
+      "What are the default values shown for the parameters on the VNAV CRUISE and ACT LEGS pages?",
+      8,
+      7,
+      -0.0005480289459228738
+   ],
+   [
+      "Can the total quantity of fuel be changed directly on this page?",
+      "Can the total quantity of fuel be changed directly on the Fuel Management page?",
+      8,
+      8,
+      -0.020758114755153656
+   ],
+   [
+      "Which page is used for FUEL MGMT calculations?",
+      "Which page displays the FUEL MGMT function?",
+      8,
+      14,
+      -0.036748312413692474
+   ],
+   [
+      "What data is needed for SP RNG TAS and SP RNG GS calculations?",
+      "What data is required to calculate specific range based on True Airspeed (TAS) and Groundspeed (GS)?",
+      8,
+      16,
+      -0.01521433591842658
+   ],
+   [
+      "How about the \"MEASURED\" mode, what data does it use?",
+      "What data is used in \"MEASURED\" mode?",
+      8,
+      19,
+      -0.006003187596797965
+   ],
+   [
+      "How are sensor-measured FUEL FLOW and GND SPD differentiated from pilot entries?",
+      "How are the \"PREDICTED\" and \"MEASURED\" modes for FUEL FLOW and GND SPD differentiated?",
+      8,
+      23,
+      -0.006072747707366988
+   ],
+   [
+      "What is the purpose of the FIX function in FMS Operations - Cruise?",
+      "During the cruise phase, what is the purpose of the FIX function in FMS Operations?",
+      9,
+      4,
+      -0.003192254900932334
+   ],
+   [
+      "What information can be obtained from an individual FIX INFO page regarding a reference waypoint?",
+      "What specific details are displayed for a reference waypoint on its corresponding FIX INFO page?",
+      9,
+      7,
+      -0.004523816704749994
+   ],
+   [
+      "And where would you find the arm status for Lateral Modes?",
+      "On the FMA, how is the arm status for Lateral Modes indicated?",
+      10,
+      6,
+      -0.006173197925090745
+   ],
+   [
+      "What is the primary method for tuning radios in the ARJ21 aircraft?",
+      "What FMS page is used for descent preparation tasks such as STAR selection and wind input on the ARJ21?",
+      11,
+      4,
+      -0.24314834177494044
+   ],
+   [
+      "What type of radio can the FMS directly tune in AUTO mode?",
+      "What type of radio tuning is performed by the RTU in AUTO mode?",
+      11,
+      5,
+      -0.002012717723846369
+   ],
+   [
+      "In the 8.33 kHz tuning configuration, what does the CDU TUNE page show for COM channel names?",
+      "In the ARJ21 aircraft, what does the FMS CDU display for COM channel names when 8.33 kHz separation is configured?",
+      11,
+      13,
+      -0.01885320246219635
+   ],
+   [
+      "What is the first step to manually tune a radio using the CDU?",
+      "What is the first action taken when manually tuning any radio with the CDU?",
+      11,
+      14,
+      -0.0048801764845848306
+   ],
+   [
+      "What is one restriction regarding copying frequencies into the scratchpad?",
+      "What constraint applies when copying frequencies into the scratchpad?",
+      11,
+      16,
+      -0.004274450242519379
+   ],
+   [
+      "According to the FMA description, what does Area 1 represent?",
+      "What information is displayed in green on the FMA?",
+      12,
+      4,
+      -0.011764186620712325
+   ],
+   [
+      "Which area indicates the current \"Approach - Roll\" Mode?",
+      "On the FMA, which area indicates the current \"Approach - Roll\" mode?",
+      12,
+      7,
+      -0.02815735191106805
+   ],
+   [
+      "Which area represents the FG Coupling Arrow?",
+      "What does Area 11 of the FMA represent?",
+      12,
+      8,
+      -0.00580900311470034
+   ],
+   [
+      "In the FMA's vertical mode display, what does a green \"PTCH\" indicate in Area 7?",
+      "What does a green \"PTCH\" in Area 7 of the FMA indicate?",
+      12,
+      9,
+      -0.00818480104207997
+   ],
+   [
+      "What are the steps to delete a discontinuity on the FPLN page?",
+      "How can discontinuities be deleted on the FPLN page?",
+      13,
+      6,
+      -0.0026424527168273926
+   ],
+   [
+      "And if the IRS is not installed under those circumstances?",
+      "What happens if multisensor inputs are lost and the IRS is not installed?",
+      14,
+      3,
+      -0.003310450445860591
+   ],
+   [
+      "Where are the CDUs located in the aircraft?",
+      "Where are the CDUs located in the aircraft, and what is their primary function?",
+      14,
+      5,
+      -0.02391352504491806
+   ],
+   [
+      "How many lines of characters can its display support for data pages?",
+      "What is the character line display capacity of the FMS for data pages?",
+      14,
+      7,
+      -0.006559209525585086
+   ],
+   [
+      "What happens when you press a Line Select Key (LSK)?",
+      "What action is initiated when a Line Select Key (LSK) is pressed?",
+      14,
+      9,
+      -0.103944793343544
+   ],
+   [
+      "What default values do the ACT/MOD VNAV CLIMB, CRUISE, or DESCENT pages display?",
+      "What default values are displayed on the ACT VNAV CLIMB, ACT VNAV CRUISE, and ACT VNAV DESCENT pages?",
+      14,
+      15,
+      -0.007906198501586914
+   ],
+   [
+      "When does the FMS target speed get used to accomplish long range cruise in level flight?",
+      "When does the FMS utilize its target speed for long-range cruise during level flight?",
+      14,
+      17,
+      -0.004738999903202035
+   ],
+   [
+      "What default settings are shown on the VNAV CLIMB page for the climb phase?",
+      "What information is displayed on the VNAV CLIMB page during the climb phase?",
+      15,
+      9,
+      -0.0007448047399520874
+   ],
+   [
+      "Which lever is used for longitudinal seat adjustment?",
+      "What seats are included in the cockpit and what lever is used for longitudinal seat adjustment?",
+      16,
+      3,
+      -0.03016456514596938
+   ],
+   [
+      "What is the correct way to deploy an armrest?",
+      "How is the armrest deployed?",
+      16,
+      10,
+      -0.038209353387355816
+   ],
+   [
+      "What position must the slides of the emergency exit doors always be in?",
+      "How are the I type emergency exit doors operated?",
+      17,
+      3,
+      -0.07264537215232847
+   ],
+   [
+      "What might the pilot need to do during it?",
+      "What actions might the Pilot Flying and Pilot Monitoring take during the cruise phase of flight?",
+      18,
+      2,
+      -0.024718610942363717
+   ],
+   [
+      "What is the purpose of the FIX function in FMS operations?",
+      "What are the pilot's responsibilities during the cruise phase of flight, and what actions are involved in preparing for descent?",
+      18,
+      4,
+      -0.22210849896073337
+   ],
+   [
+      "How does this reference point appear on the FMS map display?",
+      "How does a manually entered fix appear on the FMS map display?",
+      18,
+      5,
+      -0.016647192835807845
+   ],
+   [
+      "Can runway threshold waypoints be used as fix references?",
+      "Can runway threshold waypoints be entered as fix references on the FMS?",
+      18,
+      9,
+      -0.005752778053283669
+   ],
+   [
+      "How are these modes engaged and disengaged?",
+      "How are the pitch, roll, and thrust control modes of the Autoflight System engaged and disengaged?",
+      19,
+      1,
+      -0.042225003242492676
+   ],
+   [
+      "What happens when one of them is selected?",
+      "What is the function of the related pushbuttons on the Flight Control Panel (FCP)?",
+      19,
+      2,
+      -0.027444343268871296
+   ],
+   [
+      "How about the Altitude Select Mode? What is its function?",
+      "What is the function of the Altitude Select Mode and how is it engaged and disengaged?",
+      19,
+      4,
+      -0.03841680884361265
+   ],
+   [
+      "What do the FLC and VNAV modes do, respectively?",
+      "What do the FLC and VNAV modes do respectively?",
+      19,
+      5,
+      -0.0003744065761566162
+   ],
+   [
+      "What is the purpose of the mode related to glideslope signal or FMS command?",
+      "What mode is engaged by the glideslope signal or FMS command?",
+      19,
+      6,
+      -0.003304687142372198
+   ],
+   [
+      "And what about the Overspeed and Underspeed modes?",
+      "What do the Overspeed and Underspeed modes control?",
+      19,
+      7,
+      -0.025136017799377464
+   ],
+   [
+      "What action would cancel this mode?",
+      "How are incompatible modes deselected?",
+      19,
+      8,
+      -0.04948178529739389
+   ],
+   [
+      "How does the VPATH mode achieve descent?",
+      "What is the purpose of VPATH in the descent phase?",
+      20,
+      3,
+      -0.016752023994922594
+   ],
+   [
+      "Can hold procedures be set up manually during the descent phase?",
+      "During the descent phase, what procedures can be manually set up by the pilot?",
+      20,
+      6,
+      -0.20948725044727323
+   ],
+   [
+      "Can a HOLD be set up at a waypoint not in the flight plan?",
+      "Can a hold be set up at a non-flight plan waypoint?",
+      20,
+      10,
+      -0.0017115265130996926
+   ],
+   [
+      "Once the LEGS page with the HOLD AT prompt is shown, what should be done with the name of the waypoint needing the holding FIX?",
+      "After the LEGS page displays the \"HOLD AT\" prompt, what information needs to be entered to define the holding FIX?",
+      20,
+      15,
+      -0.059919105470180534
+   ],
+   [
+      "To insert the holding into the flight plan, what LSK should be pressed next?",
+      "After entering the waypoint name to the scratchpad, which LSK is pressed to show the \"HOLD AT IDENT\" prompt?",
+      20,
+      17,
+      -0.026126773655414604
+   ],
+   [
+      "Where are the CDUs located in the aircraft?",
+      "What kind of displays does the FMS support?",
+      21,
+      5,
+      -0.06014345437288282
+   ],
+   [
+      "How is the sequencing mode of the flight plan leg switched?",
+      "How is the sequencing mode of the flight plan legs controlled?",
+      21,
+      14,
+      -0.003631000220775671
+   ],
+   [
+      "When will the FMS automatically switch from AUTO to INHIBIT if there's a discontinuity in the active leg?",
+      "Under what circumstances will the FMS automatically switch from AUTO mode to INHIBIT mode if a discontinuity occurs in the active flight plan leg?",
+      21,
+      19,
+      -0.02863349318504338
+   ],
+   [
+      "What happens when the STALL ADVANCE Switch is pushed on the overhead panel?",
+      "How is the Stall Protection System engaged?",
+      22,
+      2,
+      -0.016333197057247117
+   ],
+   [
+      "What must be avoided if the EICAS triggers a caution message about the left or right AOA sensor heater failing?",
+      "What should the flight crew do if EICAS displays a caution message for a left or right AOA sensor heater failure?",
+      22,
+      11,
+      -0.015920370817184448
+   ],
+   [
+      "What is critical for the pilot regarding these modes during all flight operations?",
+      "What is critical for the pilot regarding the FMA display of Autoflight System modes during all flight operations?",
+      23,
+      2,
+      -0.009933920204639346
+   ],
+   [
+      "Which mode is used for vertical guidance based on go-around target speed?",
+      "What is the mode that provides vertical guidance using go-around target speed?",
+      23,
+      8,
+      -0.0028456538915634377
+   ],
+   [
+      "What happens when one of them is selected?",
+      "What happens when one of the FCP pushbuttons is selected?",
+      24,
+      5,
+      -0.012465325742959998
+   ],
+   [
+      "How about the Altitude Select (ALTS) Mode?",
+      "What is the purpose of the Altitude Select (ALTS) Mode?",
+      24,
+      7,
+      -0.028294068574905462
+   ],
+   [
+      "What does the Vertical Speed Mode (VS) aim for?",
+      "What is the purpose of the Vertical Speed Mode (VS)?",
+      24,
+      9,
+      -0.0044888496398926
+   ],
+   [
+      "What is the function of the Approach (APPR) Mode?",
+      "What does the Approach (APPR) Mode do?",
+      24,
+      12,
+      -0.004631695151329107
+   ],
+   [
+      "And for the Takeoff (TO) Mode?",
+      "What is the function of the Takeoff (TO) Mode?",
+      24,
+      13,
+      -0.044429972767829895
+   ],
+   [
+      "What do the Overspeed (OSPD) and Underspeed (USPD) Modes do?",
+      "What do the OSPD and USPD modes aim for?",
+      24,
+      15,
+      -0.04591602385044102
+   ],
+   [
+      "What is the state of the ALT Mode mentioned here?",
+      "What does the Altitude Hold (ALT) Mode do?",
+      24,
+      17,
+      -0.011974117159843423
+   ],
+   [
+      "When can a hold procedure be manually set up?",
+      "When is it appropriate to manually set up a hold procedure?",
+      25,
+      5,
+      -0.007117388397455238
+   ],
+   [
+      "What are the three types of holds available in the FMS HOLD function?",
+      "What are the three types of holds that can be set up in the FMS during the descent phase?",
+      25,
+      7,
+      -0.015010930597782135
+   ],
+   [
+      "What information does the FPLN HOLD Page display regarding an existing hold?",
+      "What information does the FPLN HOLD Page display about a hold in the flight plan?",
+      25,
+      12,
+      -0.01336957216262824
+   ],
+   [
+      "What specific message appears if the aircraft's airspeed exceeds the prescribed limit one minute before reaching the holding FIX?",
+      "What message is displayed if the aircraft airspeed exceeds the holding speed limit one minute prior to the holding fix?",
+      25,
+      17,
+      -0.005506777763366666
+   ],
+   [
+      "What message is annunciated if that time arrives and the aircraft has not exited the hold?",
+      "What message is annunciated if the EFC Time arrives and the aircraft has not exited the hold?",
+      25,
+      21,
+      -0.07221775613725184
+   ],
+   [
+      "For the Pilot Monitoring, which page is suggested for them to select?",
+      "Which page is suggested for the Pilot Monitoring to select during the cruise phase?",
+      26,
+      1,
+      -0.009813809394836448
+   ],
+   [
+      "What actions might a pilot be required to perform during it?",
+      "What actions might the Pilot Flying and Pilot Monitoring perform during the cruise phase?",
+      26,
+      3,
+      -0.041773319244384766
+   ],
+   [
+      "In the ARJ21 aircraft, what is the primary tuning method for radios?",
+      "During the cruise phase, what actions may a pilot be required to perform?",
+      26,
+      5,
+      -0.3321610875427723
+   ],
+   [
+      "How can COM, NAV, and ADF radios be tuned?",
+      "How are COM, NAV, and ADF radios tuned on the ARJ21 aircraft?",
+      26,
+      11,
+      -0.02539327144622794
+   ],
+   [
+      "What feature does the FMS provide for communication frequencies for a given airport?",
+      "What is the function of the FMS regarding communication frequencies for an airport?",
+      26,
+      15,
+      -0.006779536604881287
+   ],
+   [
+      "After looking up a desired frequency, what is the first step to tune it?",
+      "After looking up a desired frequency, how is it tuned to the RTU?",
+      26,
+      23,
+      -0.013567626476287842
+   ],
+   [
+      "After pushing the TUNE function key, what is the final step to transfer the frequency and tune the radio?",
+      "After pushing the TUNE function key and selecting the desired frequency, what is the final step to tune the radio?",
+      26,
+      24,
+      -0.013470491766929604
+   ],
+   [
+      "Are there different ways to add a waypoint to the flight plan?",
+      "What are the different ways to create and delete waypoints within the FMS Operations - Advanced Flight Plan?",
+      27,
+      1,
+      -0.025773529708385423
+   ],
+   [
+      "How about distance and time-to-go data for the active leg?",
+      "What information is available for the active leg, specifically regarding distance and time-to-go?",
+      27,
+      4,
+      -0.004068617522716478
+   ],
+   [
+      "How can offset tracking be manually cancelled?",
+      "Can offset tracking be manually cancelled?",
+      27,
+      7,
+      -0.023790821433067322
+   ],
+   [
+      "How can an offset parallel course be cancelled?",
+      "How can the parallel offset function be cancelled?",
+      27,
+      8,
+      -0.035499490797519684
+   ],
+   [
+      "What is the first step to manually cancel an offset parallel course?",
+      "How is an offset parallel course manually cancelled on the FMS?",
+      27,
+      12,
+      -0.032764135301113106
+   ],
+   [
+      "What is the primary method for tuning in the ARJ21 aircraft?",
+      "What is the primary method for tuning in the ARJ21 aircraft, as discussed in the context of flight phases?",
+      28,
+      5,
+      -0.010506330430507638
+   ],
+   [
+      "What is considered the secondary method for tuning radios?",
+      "Besides the RTU, what is the secondary method for tuning radios in the ARJ21 aircraft?",
+      28,
+      6,
+      -0.007424661517143272
+   ],
+   [
+      "Which radio can the FMS directly tune?",
+      "Which radio tuning method is considered secondary?",
+      28,
+      7,
+      -0.01112432479858394
+   ],
+   [
+      "What does the Tuning mode selection allow the operator to do?",
+      "What are the colors for the RADIO TUNING title line and active frequencies on the TUNE pages?",
+      28,
+      13,
+      -0.025039763748645694
+   ],
+   [
+      "Where are the CDUs located?",
+      "What displays does the FMS support?",
+      29,
+      5,
+      -0.07791107296943656
+   ],
+   [
+      "Which switch is used to adjust the brightness of this display?",
+      "What switch is used to adjust the display brightness?",
+      29,
+      12,
+      -0.003507411479949929
+   ],
+   [
+      "What indicates that the CDU is displaying the previous DIRECT-TO HISTORY page?",
+      "How can a pilot tell if the CDU is showing the previous DIRECT-TO HISTORY page?",
+      29,
+      16,
+      -0.0022386983036994934
+   ],
+   [
+      "How are the vertical modes engaged and disengaged?",
+      "What displays the vertical, lateral, and AT modes of the Autoflight System, and where are they located?",
+      30,
+      3,
+      -0.03369587361812598
+   ],
+   [
+      "What is the purpose of the Pitch (PTCH) Mode?",
+      "How does the Autoflight System control aircraft pitch?",
+      30,
+      5,
+      -0.03858267515897751
+   ],
+   [
+      "And what about the Altitude Hold Mode (ALT)?",
+      "What is the purpose of the Altitude Hold Mode (ALT)?",
+      30,
+      6,
+      -0.056094671785831496
+   ],
+   [
+      "What does the Vertical Navigation (VNAV) Mode do?",
+      "What is the function of the Vertical Navigation (VNAV) Mode?",
+      30,
+      7,
+      -0.004501107335090571
+   ],
+   [
+      "When is the OSPD Mode automatically activated?",
+      "What does the OSPD Mode do?",
+      30,
+      9,
+      -0.010115486383438066
+   ],
+   [
+      "Can the FMS fly missed approach procedures?",
+      "Can the FMS fly missed approach procedures, similar to how it handles arrival and approach phases?",
+      31,
+      3,
+      -0.0029583081603050676
+   ],
+   [
+      "Which types of approaches is the FMS designed and authorized to automatically execute?",
+      "Can the FMS automatically execute missed approach procedures?",
+      31,
+      4,
+      -0.018518318235874243
+   ],
+   [
+      "Will the FMS level the aircraft at the Minimum Descent Altitude (MDA) for non-precision approaches when descending in VGP mode?",
+      "Can the FMS level the aircraft at the MDA for conventional approaches when descending in VGP mode?",
+      31,
+      8,
+      -0.01032102108001709
+   ],
+   [
+      "Which types of localizer-based approaches does the FMS support?",
+      "Does the FMS support conventional approaches such as NDB or VOR, and can it be used as a navigational source for them?",
+      31,
+      10,
+      -0.014044627547264099
+   ],
+   [
+      "Does the FMS execute the final phase of these approaches?",
+      "Can the FMS automatically execute the final phase of ILS, localizer, LDA, and SDF approaches?",
+      31,
+      11,
+      -0.0176988407969475
+   ],
+   [
+      "Down to what point does it provide this guidance?",
+      "Down to what point does the FMS provide Baro-VNAV vertical guidance when VNAV is engaged and the localizer signal is captured?",
+      31,
+      16,
+      -0.026598961651325193
+   ],
+   [
+      "Where are its vertical, lateral, and AT modes displayed?",
+      "What is displayed on the flight mode annunciator?",
+      32,
+      2,
+      -0.11873043924570081
+   ],
+   [
+      "Why is it critical for the pilot to recognize and understand these modes?",
+      "Why is it critical for the pilot to recognize and understand the aircraft's pitch, roll, and thrust control modes displayed on the FMA?",
+      32,
+      3,
+      -0.0119590163230896
+   ],
+   [
+      "How about the Altitude Hold Mode (ALT)? What does it do?",
+      "How does the Altitude Hold (ALT) mode function within the Autoflight System, and what is its purpose?",
+      32,
+      7,
+      -0.003781139850616455
+   ],
+   [
+      "When can a BIT test of the Stall Protection System be performed?",
+      "What are the functions of the Stall Protection System, and how is its Advance Protection Mode activated and what are its effects, including the associated EICAS message?",
+      33,
+      5,
+      -0.027147658169269562
+   ],
+   [
+      "What happens to the AP when the stick shaker activates?",
+      "What is the effect on the autopilot when the stick shaker activates?",
+      33,
+      9,
+      -0.00237129926681523
+   ],
+   [
+      "What is the AOA of stall warning for Landing Configuration 3?",
+      "What is the AOA threshold for stall warning in Landing Configuration 3?",
+      33,
+      12,
+      -0.031896017491817474
+   ],
+   [
+      "What happens if the AOA continues to increase beyond the shaker level after the stick shakers are activated?",
+      "What happens if the angle of attack continues to increase after the stick shakers activate?",
+      33,
+      14,
+      -0.004495244473218918
+   ],
+   [
+      "Where do its vertical, lateral, and AT modes show?",
+      "Where are the Autoflight System's vertical, lateral, and AT modes displayed?",
+      34,
+      1,
+      -0.0047079771757125854
+   ],
+   [
+      "What is critical for the pilot to do regarding these modes?",
+      "What is critical for the pilot to monitor regarding the Autoflight System's FMA modes?",
+      34,
+      2,
+      -0.05723161846399316
+   ],
+   [
+      "How are the vertical modes of the Autoflight System engaged and disengaged?",
+      "How are the Autoflight System's vertical modes engaged and disengaged?",
+      34,
+      3,
+      -0.006503912806510859
+   ],
+   [
+      "What happens when one of these is selected?",
+      "What are the functions of the pushbuttons on the Flight Control Panel (FCP)?",
+      34,
+      4,
+      -0.05504647195339202
+   ],
+   [
+      "And what about the Altitude Select (ALTS) Mode?",
+      "What does the Altitude Select (ALTS) Mode do?",
+      34,
+      6,
+      -0.01784351766109471
+   ],
+   [
+      "What does the Vertical Navigation (VNAV) Mode do automatically?",
+      "What does the Vertical Navigation (VNAV) Mode automatically do?",
+      34,
+      8,
+      -0.008292400836944491
+   ],
+   [
+      "What event initiates the Windshear Escape Mode (WS)?",
+      "What is the purpose of the Windshear Escape Mode (WS)?",
+      34,
+      12,
+      -0.0067360177636146545
+   ],
+   [
+      "Which of these modes holds the current barometric altitude?",
+      "Which Autoflight System mode maintains the current barometric altitude?",
+      35,
+      5,
+      -0.0014687210321425725
+   ],
+   [
+      "What does the FLC mode do?",
+      "What is the function of the FLC mode?",
+      35,
+      7,
+      -0.005690972507000014
+   ],
+   [
+      "What does the VNAV mode do?",
+      "What is the function of the Vertical Navigation (VNAV) mode?",
+      35,
+      8,
+      -0.014908742904663042
+   ],
+   [
+      "What position must the slides of these emergency exit doors always be in?",
+      "What position must the slides of the I type emergency exit doors always be in?",
+      36,
+      2,
+      -0.013217189908027671
+   ],
+   [
+      "And which page should the Pilot Monitoring select during this phase?",
+      "What page should the Pilot Monitoring select during the cruise phase?",
+      37,
+      1,
+      -0.008399482071399622
+   ],
+   [
+      "What is the purpose of the FIX function in FMS Operations - Cruise?",
+      "During the cruise phase, what is the purpose of the FIX function in FMS operations?",
+      37,
+      5,
+      -0.003192254900932334
+   ],
+   [
+      "And the Number Keys?",
+      "What do the Number Keys allow you to do?",
+      38,
+      13,
+      -0.07006533965468409
+   ],
+   [
+      "What is the function of the BRT/DIM control switch?",
+      "What does the BRT/DIM control switch do?",
+      38,
+      14,
+      -0.001116120070219051
+   ],
+   [
+      "How are takeoff thrust and engine thrust rating selected?",
+      "What system selects takeoff thrust and engine thrust ratings, and during which flight phases does it operate?",
+      39,
+      5,
+      -0.027042376995086603
+   ],
+   [
+      "What is the sequence to set the required thrust rating on it?",
+      "How is the thrust rating selected using the CDU for takeoff and go-around thrust?",
+      39,
+      6,
+      -0.025862219929695174
+   ],
+   [
+      "What takeoff thrust options are available for selection?",
+      "How can takeoff thrust ratings be selected using the CDU?",
+      39,
+      7,
+      -0.04908620268106467
+   ],
+   [
+      "What calculates the thrust reduction for takeoff in this scenario?",
+      "What system limits the maximum thrust reduction for Flexible Take-off Thrust (FLX)?",
+      39,
+      12,
+      -0.06217616274952892
+   ],
+   [
+      "Where are the AP/SP DISC Pushbutton and SYNC Pushbutton located?",
+      "Where are the AP/SP DISC Pushbutton and SYNC Pushbutton located on the Flight Control Panel (FCP)?",
+      0,
+      4,
+      -0.002064041793346405
+   ],
+   [
+      "What happens when the AP/SP DISC Pushbutton is pressed?",
+      "What function does the AP/SP DISC Pushbutton perform?",
+      0,
+      5,
+      -0.013122326135635354
+   ],
+   [
+      "Where are the A/T DISC Pushbutton and TOGA Pushbutton located?",
+      "Where are the A/T DISC Pushbutton and TOGA Pushbutton located on the Flight Control Panel (FCP) or associated controls?",
+      0,
+      12,
+      -0.030214278399944283
+   ],
+   [
+      "What happens if the A/T DISC Pushbutton is pressed when AT is engaged?",
+      "What happens when the A/T DISC Pushbutton is pressed?",
+      0,
+      13,
+      -0.034803095459938094
+   ],
+   [
+      "What happens when the TOGA Pushbutton is pressed on the ground if speed is less than 60 kt?",
+      "What is the function of the TOGA Pushbutton when the aircraft is on the ground and speed is below 60 knots?",
+      0,
+      15,
+      -0.01463028490543361
+   ],
+   [
+      "What happens to it during a mask test when the regulator is set to NORM or 100% mode?",
+      "What does the flow indicator on the stowage box show during a mask test when the regulator is set to NORM or 100% mode?",
+      1,
+      1,
+      -0.06110457107424733
+   ],
+   [
+      "What is the purpose of the flow indicator on the Full-Face Crew Oxygen Mask?",
+      "What does the flow indicator on the stowage box signify when oxygen is flowing?",
+      1,
+      5,
+      -0.013845853507518768
+   ],
+   [
+      "What modes are available on the Regulator Selector Switch?",
+      "What modes can the regulator be set to?",
+      1,
+      8,
+      -0.014872636646032333
+   ],
+   [
+      "What is the EMER mode used for, besides providing pressured 100% oxygen?",
+      "Besides providing a constant flow of oxygen, what is the function of the EMER mode?",
+      1,
+      11,
+      -0.055631478130817424
+   ],
+   [
+      "What about the No.2 hydraulic system, which pump is primary for it?",
+      "What is the primary pump for the No.2 hydraulic system?",
+      2,
+      3,
+      -0.005618023872375533
+   ],
+   [
+      "What types of filters are included in each hydraulic system?",
+      "What filters are present in the No.1, No.2, and No.3 hydraulic systems?",
+      2,
+      11,
+      -0.010541193187236786
+   ],
+   [
+      "How many priority valves does the No.1 hydraulic system include?",
+      "What components are included in the No.1 hydraulic system?",
+      2,
+      15,
+      -0.04206718727946279
+   ],
+   [
+      "What does each hydraulic system have to help maintain constant pressure?",
+      "What components in each hydraulic system help maintain constant reservoir pressure and meet high flow demands?",
+      2,
+      21,
+      -0.009443414211273149
+   ],
+   [
+      "What are the two separate partitions of the Hydraulic Control Logic Electronics (HCLE)?",
+      "What are the two partitions of the HCLE?",
+      2,
+      29,
+      -0.17931335568428036
+   ],
+   [
+      "What about the Receiver/Volume Knobs on it? What is their purpose?",
+      "What is the purpose of the Receiver/Volume Knobs on the Audio Control Panel?",
+      3,
+      2,
+      -0.0065797194838523865
+   ],
+   [
+      "How does the VOICE/BOTH/ID Selector operate?",
+      "What is the function of the VOICE/BOTH/ID Selector and how does it operate?",
+      3,
+      4,
+      -0.009927162528038047
+   ],
+   [
+      "What specific audio is received if \"ID\" is selected with it?",
+      "What audio is received when the VOICE/BOTH/ID Selector is set to \"ID\"?",
+      3,
+      5,
+      -0.006557914614677363
+   ],
+   [
+      "What is the function of the Hand Microphone PTT Switch?",
+      "How does the Hand Microphone PTT Switch function in relation to transmission?",
+      3,
+      16,
+      -0.0019738182425499406
+   ],
+   [
+      "What occurs if the operating frequency is a LOC frequency instead?",
+      "What happens during the BIT if the current operating frequency is a LOC frequency?",
+      4,
+      9,
+      -0.10830705389380457
+   ],
+   [
+      "Where is the CDU located?",
+      "Where is the Control Display Unit (CDU) located?",
+      4,
+      10,
+      -0.0013011321425437927
+   ],
+   [
+      "How can the TUNE page be displayed on it?",
+      "How can the TUNE page be displayed on the CDU?",
+      4,
+      11,
+      -0.04767274111509323
+   ],
+   [
+      "What frequency is displayed adjacent to LSK L3 on this page?",
+      "What frequency is displayed adjacent to the preset page selection on the RTU?",
+      4,
+      12,
+      -0.03695490211248398
+   ],
+   [
+      "Where is the Display Control Panel (DCP) located?",
+      "Where is the Display Control Panel (DCP) located on the Central Pedestal?",
+      4,
+      14,
+      -0.0106598719954491
+   ],
+   [
+      "What about opening it normally from the outside?",
+      "How is the emergency exit door opened normally from the outside?",
+      5,
+      7,
+      -0.011092747747898035
+   ],
+   [
+      "How does TCAS determine intruder information?",
+      "What information does TCAS provide about nearby aircraft, and how does it obtain that information?",
+      6,
+      5,
+      -0.0402915194630622
+   ],
+   [
+      "How is \"Proximate traffic\" identified and displayed?",
+      "What are the display characteristics and identification methods for \"Proximate traffic\" within the TCAS system?",
+      6,
+      10,
+      -0.0065806724131107774
+   ],
+   [
+      "What constitutes a Traffic Advisory (TA) and what is its TAU?",
+      "What defines a Traffic Advisory (TA) in TCAS, and what is the significance of its TAU value?",
+      6,
+      11,
+      -0.007424740493297555
+   ],
+   [
+      "What defines a Resolution Advisory (RA) and its TAU?",
+      "What defines a Resolution Advisory (RA) and what is its TAU?",
+      6,
+      13,
+      -0.004813136160373599
+   ],
+   [
+      "What is the purpose of a Traffic Advisory (TA)?",
+      "What is a Traffic Advisory (TA) in TCAS, and what does it signify?",
+      6,
+      18,
+      -0.007988345623016424
+   ],
+   [
+      "What does a Preventive Resolution Advisory (PRA) warn the pilot to do?",
+      "What action does a Preventive Resolution Advisory (PRA) instruct the pilot to take?",
+      6,
+      19,
+      -0.017729079723358132
+   ],
+   [
+      "Under what conditions are TCAS alerts inhibited?",
+      "When are TCAS alerts not issued?",
+      6,
+      22,
+      -0.03462862968444824
+   ],
+   [
+      "What about a Resolution Advisory (RA) Descent (1500 ft/min)?",
+      "What is a corrective resolution advisory (CRA) for descent at 1500 ft/min?",
+      6,
+      24,
+      -0.02595920264720919
+   ],
+   [
+      "How can the LNAV Mode be deselected?",
+      "How can the LNAV Mode be deselected, and what happens if another mode is selected while LNAV is active?",
+      7,
+      8,
+      -1.1938810348555151e-05
+   ],
+   [
+      "What page is displayed when the VNAV Key is pressed?",
+      "What page is shown on the CDU when the VNAV key is pressed?",
+      8,
+      19,
+      -0.06492971926927571
+   ],
+   [
+      "How can a pilot-defined waypoint be determined on this page?",
+      "How can a pilot-defined waypoint be entered, edited, or deleted on the FIX INFO page?",
+      8,
+      31,
+      -0.01867599487304694
+   ],
+   [
+      "What information does the PROGRESS 2/2 page display?",
+      "What information is presented on the PROGRESS 2/2 page?",
+      8,
+      43,
+      -0.009759938716888406
+   ],
+   [
+      "What annunciation is displayed if the CDU shows the previous DIRECT-TO HISTORY page?",
+      "What annunciation is displayed on the CDU if the DIRECT-TO HISTORY page is shown?",
+      8,
+      45,
+      -0.02400295734405511
+   ],
+   [
+      "What happens when the MFD is in map format and this key is pressed?",
+      "When the MFD is in the PLAN MAP CENTER format, what does pressing LSK L1 do?",
+      8,
+      48,
+      -0.002218858897686027
+   ],
+   [
+      "How do you clear the content on the entire scratchpad line using the CLR key?",
+      "How do you clear the entire scratchpad line using the CLR key?",
+      8,
+      60,
+      -0.017809592187404633
+   ],
+   [
+      "What happens when the +/- function key is pressed?",
+      "How does the +/- function key affect the displayed altitude or speed?",
+      8,
+      64,
+      -0.02567160576581956
+   ],
+   [
+      "What prevents hydraulic fluid from flowing backward from the accumulators?",
+      "What prevents backward flow of hydraulic fluid from the accumulators?",
+      9,
+      4,
+      -0.03240710049867629
+   ],
+   [
+      "What can happen to the brake accumulator pressure in this case if the normal brake is used?",
+      "If a hydraulic system fails, how is the brake accumulator pressure maintained when the normal brake is applied?",
+      9,
+      7,
+      -0.04712008535861967
+   ],
+   [
+      "How is brake wear indicated?",
+      "How is brake wear monitored or indicated?",
+      9,
+      10,
+      -0.0005906373262405396
+   ],
+   [
+      "What is the relationship between applied force and brake pressure?",
+      "How does applying pressure to the brake pedals relate to the hydraulic systems and brake pressure?",
+      9,
+      13,
+      -0.061155046522617384
+   ],
+   [
+      "What can this type of braking be used for if nose wheel steering is lost?",
+      "How can the wheel brake system be used for directional control if nose wheel steering is lost?",
+      9,
+      15,
+      -0.03964070975780487
+   ],
+   [
+      "What is not recommended when nose wheel steering operates normally?",
+      "What can be used for directional control if nose wheel steering is lost?",
+      9,
+      16,
+      -0.007529587298631679
+   ],
+   [
+      "What feeds the braking system if No.1 and No.2 hydraulic systems fail?",
+      "What supplies pressure to the brakes if both the No.1 and No.2 hydraulic systems fail?",
+      9,
+      17,
+      -0.038307917118072465
+   ],
+   [
+      "What can happen to accumulator pressure in this situation if manual brake is used?",
+      "If both hydraulic systems fail, what happens to brake accumulator pressure if manual brake is used?",
+      9,
+      18,
+      -0.04028280302882192
+   ],
+   [
+      "How should a pilot use differential braking for steering?",
+      "Under what circumstances is differential braking recommended for steering?",
+      9,
+      20,
+      -0.009114299714565344
+   ],
+   [
+      "What is recommended to ensure brake accumulators are not depleting too rapidly?",
+      "What is recommended to prevent rapid depletion of brake accumulator pressure?",
+      9,
+      21,
+      -0.010528723895549763
+   ],
+   [
+      "How many operating modes does the autobrake system have?",
+      "What are the functions of the AUTOBRAKE Selector?",
+      9,
+      23,
+      -0.02451046854257588
+   ],
+   [
+      "How is emergency braking available if the normal brake system fails?",
+      "How is the emergency brake activated if the normal brake system fails?",
+      9,
+      27,
+      -0.05587056800723078
+   ],
+   [
+      "Can differential braking be used with it?",
+      "Can differential braking be used for steering when nose wheel steering is lost?",
+      9,
+      30,
+      -0.11430280245840552
+   ],
+   [
+      "What is prohibited regarding the use of manual and emergency brakes?",
+      "What is prohibited when using the manual brake or the emergency brake with regard to antiskid function and differential braking?",
+      9,
+      33,
+      -0.002923421561717987
+   ],
+   [
+      "What powers the parking brake?",
+      "Is the parking brake system dependent on electrical power?",
+      9,
+      36,
+      -0.07083356454968459
+   ],
+   [
+      "How does the APU GEN Switch operate when pushed?",
+      "What is the function of the APU GEN Switch when pushed and its light is out?",
+      10,
+      7,
+      -0.004440332949161574
+   ],
+   [
+      "What is the function of the MAIN BATT Switch and APU BATT Switch when pushed with the light out?",
+      "What is the function of the MAIN BATT Switch and APU BATT Switch when pressed and their lights are out?",
+      10,
+      13,
+      -0.006232754886150382
+   ],
+   [
+      "What does the L(R) BUS TIE Switch do when AUTO (light out) is pushed?",
+      "What is the function of the L(R) BUS TIE Switch when AUTO (light out) is pushed?",
+      10,
+      15,
+      -0.018483269214630116
+   ],
+   [
+      "What is the function of the DC BUS TIE Switch in AUTO (light out) mode?",
+      "What does the DC BUS TIE Switch do when in AUTO mode?",
+      10,
+      17,
+      -0.03199356198310849
+   ],
+   [
+      "Where is the RAT Manual Deploy Handle located?",
+      "What does the RAT Manual Deploy Handle do?",
+      10,
+      23,
+      -0.03213492184877398
+   ],
+   [
+      "What is the RAT TEST Pushbutton used for?",
+      "What is the purpose of the RAT TEST Pushbutton?",
+      10,
+      27,
+      -0.0007930859923362954
+   ],
+   [
+      "What do the status and output indications of the L/R Generator (L/R GEN) on the Electrical Power System Synoptic Page show?",
+      "What are the possible indications of the L(R) GEN Switch on the ELEC PWR Control Panel and what do they signify?",
+      10,
+      34,
+      -0.06546466425061226
+   ],
+   [
+      "When are the status and output of External Power (EXT PWR) displayed on this page?",
+      "When are the status and output of External Power (EXT PWR) displayed on the Electrical Power System Synoptic Page?",
+      10,
+      39,
+      -0.021695913374424003
+   ],
+   [
+      "What do the box colors for the Transformer Rectifier Unit (TRU) indicate?",
+      "What do the status indications for the Transformer Rectifier Units (TRUs) mean on the Electrical Power System Synoptic Page?",
+      10,
+      43,
+      -0.007071907818317458
+   ],
+   [
+      "When is \"DISCH\" displayed for the battery operating mode?",
+      "What does the \"DISCH\" status for the battery operating mode indicate?",
+      10,
+      47,
+      -0.008363387361168872
+   ],
+   [
+      "What does an amber \"DISCH\" color mean?",
+      "What does an amber \"DISCH\" display signify on the Electrical Power System Synoptic Page for the batteries?",
+      10,
+      48,
+      -0.023474325239658367
+   ],
+   [
+      "How is the Flight Control Battery status indicated?",
+      "How are the status and parameters of the Flight Control Batteries displayed?",
+      10,
+      51,
+      -0.007429711893200908
+   ],
+   [
+      "When are the status and output of the RAT Generator (RAT GEN) displayed?",
+      "When is the status and output of the RAT Generator (RAT GEN) displayed on the Electrical Power System Synoptic Page?",
+      10,
+      52,
+      -0.0018577888607979043
+   ],
+   [
+      "What does an amber color for the Static Inverter indicate?",
+      "What does an amber indication on the Static Inverter signify?",
+      10,
+      54,
+      -0.024004805833101273
+   ],
+   [
+      "What alerts does it trigger then?",
+      "What are the conditions for the Excessive Rate of Descent alert when CPA is inoperative?",
+      11,
+      2,
+      -0.005479910969734214
+   ],
+   [
+      "What is the next mode in the Reactive Alert Function?",
+      "What is Mode 2 of the Reactive Alert Function?",
+      11,
+      4,
+      -0.006997686624527044
+   ],
+   [
+      "And if a warning for it is triggered?",
+      "What is the aural alert if a warning for Mode 2 of the Reactive Alert Function is triggered?",
+      11,
+      6,
+      -0.009272903203964233
+   ],
+   [
+      "When does its aural alert sound?",
+      "When does the WHOOP WHOOP PULL UP aural alert sound for Mode 3 of the Reactive Alert Function?",
+      11,
+      8,
+      -0.018039897084236145
+   ],
+   [
+      "What aural alerts might sound for this?",
+      "What are the aural alerts for Incorrect Landing Configuration?",
+      11,
+      12,
+      -0.00963895916938784
+   ],
+   [
+      "When does TAWS provide altitude callouts?",
+      "What are the conditions for TAWS altitude callouts in Mode 6?",
+      11,
+      21,
+      -0.02550987750291822
+   ],
+   [
+      "What alert is provided for excessive bank angle?",
+      "What is the aural alert for an excessive bank angle in Mode 6 of the Reactive Alert Function?",
+      11,
+      23,
+      -0.009944763779640264
+   ],
+   [
+      "What triggers an aural alert if aircraft performance degrades?",
+      "What triggers an aural alert if aircraft performance degrades after takeoff or during a go-around?",
+      11,
+      28,
+      -0.004426510632038139
+   ],
+   [
+      "How is the armrest retracted on the observer seat?",
+      "How is the armrest retracted?",
+      12,
+      9,
+      -0.013755346834659565
+   ],
+   [
+      "What does the CMS primarily do as described in its system description?",
+      "What are the key functions and components described in the CMS documentation?",
+      13,
+      3,
+      -0.030029633641243003
+   ],
+   [
+      "Where does it show maintenance messages?",
+      "Where are failure and status information about LRUs displayed?",
+      13,
+      9,
+      -0.08479123562574387
+   ],
+   [
+      "Can both MFDs display these pages simultaneously?",
+      "Can maintenance messages be displayed on both MFDs at the same time?",
+      13,
+      10,
+      -0.025836303830146845
+   ],
+   [
+      "What does the Control Wheel operate?",
+      "What aircraft control system does the Control Wheel operate?",
+      14,
+      1,
+      -0.00124080330133447
+   ],
+   [
+      "What other control panel is located on the overhead panel?",
+      "What other panel is located on the overhead panel besides the Flight Control Conversion Panel?",
+      14,
+      8,
+      -0.004236130416393258
+   ],
+   [
+      "How is the AIL TRIM Switch operated to roll the aircraft to the right?",
+      "How is the AIL TRIM Switch operated to induce a right roll?",
+      14,
+      19,
+      -0.03115874826908105
+   ],
+   [
+      "How is the SPD BRK Handle operated?",
+      "What is the SPD BRK Handle and where is it located?",
+      14,
+      22,
+      -0.02638234496116637
+   ],
+   [
+      "What information does the Primary Flight Control System Synoptic Page provide?",
+      "What information is displayed on the Primary Flight Control System synoptic page, particularly regarding cut-out channels?",
+      14,
+      25,
+      -0.026679995656013478
+   ],
+   [
+      "How are control surface deflection positions displayed on this page?",
+      "What do green and amber solid indications mean for control surface positions on the Primary Flight Control System Synoptic Page?",
+      14,
+      29,
+      -0.004339540004730191
+   ],
+   [
+      "When is the Aileron Trim value displayed in Red?",
+      "What does a Red indication for Aileron Trim on EICAS signify?",
+      14,
+      32,
+      -0.016078455746173836
+   ],
+   [
+      "What is the maximum rudder trim value?",
+      "What is the maximum rudder trim value allowed in takeoff configuration on the ground?",
+      14,
+      33,
+      -0.038087886571884166
+   ],
+   [
+      "How do you display the MFD upper menu?",
+      "How is the MFD upper menu selected?",
+      15,
+      8,
+      -0.0163918897509574
+   ],
+   [
+      "Is there any special note regarding the MAINTENANCE page?",
+      "What is the purpose of the STAT button on the CCP?",
+      15,
+      10,
+      -0.07450012639164921
+   ],
+   [
+      "What are the operating modes for the primary flight control system?",
+      "What are the operating modes of the Primary Flight Control System?",
+      16,
+      4,
+      -0.004181891679763794
+   ],
+   [
+      "What EICAS message is triggered when a split of left and right elevators exceeds the structure limit value?",
+      "What EICAS message is triggered when a split of left and right elevators exceeds the structure limit value for the Primary Flight Control System?",
+      16,
+      6,
+      -0.012759846448898271
+   ],
+   [
+      "What are the alerts for that message, and when is it displayed?",
+      "What are the alerts for the \"FCC PART NUMBER\" message, and when is it displayed?",
+      16,
+      11,
+      -0.05162483155727393
+   ],
+   [
+      "What are the characteristics of this alert?",
+      "What are the characteristics of the FLT CTRL DIRECT MODE alert?",
+      16,
+      13,
+      -0.07774839550256729
+   ],
+   [
+      "Is it accompanied by any alerts?",
+      "What are the alerts associated with the \"GLD DISARMED\" message?",
+      16,
+      25,
+      -0.054979833960533186
+   ],
+   [
+      "What if the door remains locked after this procedure?",
+      "What is the procedure if the cockpit door remains locked after attempting to unlock it via the central pedestal selector?",
+      17,
+      5,
+      -0.009577547013759569
+   ],
+   [
+      "How does one exit if the cockpit door is jammed and cannot be opened as an emergency exit?",
+      "If the cockpit door remains locked after the standard unlocking procedure, what is the next step for exiting?",
+      17,
+      6,
+      -0.009561526775360152
+   ],
+   [
+      "What is the next control for the landing gear system?",
+      "What are the controls and their functions on the Landing Gear Control Panel, including speeds for operation?",
+      18,
+      4,
+      -0.10191424638032914
+   ],
+   [
+      "What is the main EICAS indication for the landing gear?",
+      "What is the EICAS indication for the landing gear system's position?",
+      18,
+      8,
+      -0.008068038523197152
+   ],
+   [
+      "What does the FG do in that mode?",
+      "What heading reference does the Go-around Mode hold?",
+      19,
+      2,
+      -0.05135052502155302
+   ],
+   [
+      "How can this mode be deselected?",
+      "How is the Go-around Mode deselected?",
+      19,
+      5,
+      -0.037449656426906675
+   ],
+   [
+      "Is the RWY SLOPE automatically provided?",
+      "Is the runway slope automatically provided or does it need to be entered manually?",
+      20,
+      8,
+      -0.024245566874742552
+   ],
+   [
+      "What is OAT and how is its entry related to the APPROACH REF 1/4 page?",
+      "How is the outside air temperature (OAT) entered and what information is displayed on the APPROACH REF 1/4 page if it's not entered?",
+      20,
+      11,
+      -0.0812322236597538
+   ],
+   [
+      "What data fields are shown on the TAKEOFF REF 2/4 page?",
+      "What information is displayed on the TAKEOFF REF 2/4 page?",
+      20,
+      15,
+      -0.005603498220443703
+   ],
+   [
+      "What information is provided on the TAKEOFF REF 3/4 page?",
+      "What data fields are shown on the TAKEOFF REF 3/4 page?",
+      20,
+      24,
+      -0.016363368928432487
+   ],
+   [
+      "How is the aircraft refueled and defueled?",
+      "Where are the refuel/defuel coupling and control panel located on the underside of the right wing?",
+      21,
+      1,
+      -0.03133232295513155
+   ],
+   [
+      "What is the maximum refueling pressure allowed?",
+      "What is the maximum allowable pressure for refueling the aircraft?",
+      21,
+      5,
+      -0.0077896170318126345
+   ],
+   [
+      "Describe the process for Automatic Refueling Mode.",
+      "How does the automatic refueling mode operate?",
+      21,
+      10,
+      -0.017616753280162767
+   ],
+   [
+      "How does manual refueling differ?",
+      "How does manual refueling differ from automatic refueling?",
+      21,
+      14,
+      -0.002763563394546531
+   ],
+   [
+      "What mechanism stops refueling when the maximum quantity is reached, regardless of the selected mode?",
+      "What mechanism ensures that refueling stops when the desired quantity is reached, irrespective of whether automatic or manual mode is selected?",
+      21,
+      16,
+      -0.01393496543169026
+   ],
+   [
+      "What needs to be opened to transfer fuel from the left tank to the right tank specifically?",
+      "During ground fuel transfer to balance tanks, which valves need to be opened to transfer fuel from the left tank to the right tank?",
+      21,
+      21,
+      -0.008548825979232788
+   ],
+   [
+      "What is the process for pressure defueling?",
+      "How is the aircraft defueled using pressure?",
+      21,
+      26,
+      -0.006975433230400063
+   ],
+   [
+      "And if both fail?",
+      "What happens if both PACKs fail?",
+      22,
+      4,
+      -0.020764555037021626
+   ],
+   [
+      "What is the function of the trim air pressure regulating valve within it?",
+      "What is the function of the trim air pressure regulating valve?",
+      22,
+      17,
+      -0.002726626396179155
+   ],
+   [
+      "Under what condition can the WS mode be canceled?",
+      "How can the Windshear Escape Mode be manually exited?",
+      23,
+      8,
+      -0.028119213134050358
+   ],
+   [
+      "What does the Flight Guidance (FG) system do when the aircraft is in the ALTS Mode?",
+      "What conditions are required for the ALTS Mode to be armed, and when is it inhibited?",
+      24,
+      3,
+      -0.03466378003358839
+   ],
+   [
+      "What is displayed if the FMS target altitude is captured as the valid altitude reference?",
+      "When the FMS target altitude is used as the valid altitude reference, what is displayed on the primary flight display (PFD)?",
+      24,
+      7,
+      -0.052336803078651406
+   ],
+   [
+      "How does the Autoflight System respond to changes in the barometric reference setting in this mode?",
+      "What happens to the altitude reference when the ALT knob on the Flight Control Panel is rotated while the aircraft is in ALTS Mode?",
+      24,
+      8,
+      -0.0004180729389190452
+   ],
+   [
+      "What happens to the ALT mode if the preselected altitude is changed during ALT capture or when ALTS mode is engaged?",
+      "How does rotating the ALT knob on the Flight Control Panel (FCP) affect the ALTS mode during altitude capture or when it is engaged?",
+      24,
+      9,
+      -0.010143972933292389
+   ],
+   [
+      "When does the ALTS Mode deselect?",
+      "What conditions cause the ALTS Mode to deselect?",
+      24,
+      11,
+      -0.026478043198585488
+   ],
+   [
+      "When is the ALTS Mode activated according to the typical example?",
+      "What conditions trigger the activation of the ALTS Mode?",
+      24,
+      12,
+      -0.021212792396545388
+   ],
+   [
+      "What are its estimates based on instead?",
+      "What data is used for time, fuel, and weight estimations if not sensor data?",
+      25,
+      10,
+      -0.06551748216152192
+   ],
+   [
+      "How is departure/approach information entered for the secondary flight plan?",
+      "Where is departure and approach information entered for a secondary flight plan?",
+      25,
+      12,
+      -0.001896414160728388
+   ],
+   [
+      "How can a secondary flight plan become an active flight plan?",
+      "How is a secondary flight plan activated for use as an active flight plan?",
+      25,
+      14,
+      -0.03765478432178493
+   ],
+   [
+      "What happens to the ACT FPLN and SEC FPLN once it is activated and executed?",
+      "What happens to the secondary flight plan after it is activated and executed?",
+      25,
+      19,
+      -0.0025242611765861067
+   ],
+   [
+      "What components make up the VHF navigation system?",
+      "What components are included in the VHF navigation system, and what type of system is it?",
+      26,
+      2,
+      -0.00897367596626275
+   ],
+   [
+      "What specific receivers are integrated into the VHF navigation receivers?",
+      "What specific receivers are integrated into the VHF navigation system?",
+      26,
+      3,
+      -0.0035477340221404807
+   ],
+   [
+      "How many channels does the LOC have, and what is its frequency band?",
+      "What frequency band does the LOC receiver operate in, and how many channels does it have?",
+      26,
+      5,
+      -0.0023702502250670943
+   ],
+   [
+      "What about the G/S beacon receiver, what is its operating frequency band?",
+      "What is the operating frequency band of the G/S receiver?",
+      26,
+      7,
+      -0.027967242896556832
+   ],
+   [
+      "Is the Marker Beacon (MB) system receiver always active?",
+      "What are the operating frequencies of the Marker Beacon (MB) receivers?",
+      26,
+      10,
+      -0.06363776177167896
+   ],
+   [
+      "What tuning modes are available for the VHF/NAV receiver?",
+      "What are the tuning modes of the VHF/NAV receiver?",
+      26,
+      12,
+      -0.0031668603420258457
+   ],
+   [
+      "How is RTU Tuning done?",
+      "What are the steps for RTU Tuning?",
+      26,
+      16,
+      -0.0006537675857544167
+   ],
+   [
+      "How is the slide for this door armed?",
+      "How is the slide for the left forward fuselage passenger entry door armed?",
+      27,
+      1,
+      -0.04831323623657224
+   ],
+   [
+      "What happens when this test is initiated?",
+      "What is the outcome of activating the self-test function?",
+      28,
+      6,
+      -0.043895704299211524
+   ],
+   [
+      "How is the traffic altitude trend indicated?",
+      "How is the trend of traffic altitude displayed?",
+      28,
+      16,
+      -0.0016188591718673262
+   ],
+   [
+      "What components does the No.1 hydraulic system supply?",
+      "What components are supplied by the No.1 hydraulic system?",
+      29,
+      1,
+      -0.005550239980220861
+   ],
+   [
+      "What components are supplied by the No.2 hydraulic system?",
+      "What components does the No.2 hydraulic system supply?",
+      29,
+      4,
+      -0.00473215132951732
+   ],
+   [
+      "What key does an attendant use on their handset to call the pilot?",
+      "How does a cabin attendant initiate a call to the cockpit using their handset, and what is the cockpit's auditory and visual response?",
+      30,
+      6,
+      -0.0017987728118896706
+   ],
+   [
+      "What about if they need to make an emergency call?",
+      "What happens in the cockpit if the cabin makes an emergency call?",
+      30,
+      8,
+      -0.0039973884820938554
+   ],
+   [
+      "What is the purpose of the Hold Page in FMS operations?",
+      "How can a hold procedure be set up in FMS operations?",
+      31,
+      4,
+      -0.004821740090847015
+   ],
+   [
+      "After pressing LSK(L6) corresponding to the rectangle box located in the left down of the HOLD AT prompt, what will the prompt show?",
+      "What does the prompt show after pressing LSK(L6) corresponding to the rectangle box under the HOLD AT prompt?",
+      31,
+      13,
+      -0.025027424097061157
+   ],
+   [
+      "What is the final step to set hold parameters as required?",
+      "What is the final step to set hold parameters?",
+      31,
+      14,
+      -0.0006159454584121482
+   ],
+   [
+      "When can the parameters of a holding pattern be changed?",
+      "How can the hold parameters be set as required?",
+      31,
+      18,
+      -0.044614218175411224
+   ],
+   [
+      "What page is used for changing a holding pattern?",
+      "What page is used to change the parameters of a holding pattern?",
+      31,
+      20,
+      -0.0048049807548522505
+   ],
+   [
+      "When does the FMS automatically exit a holding pattern?",
+      "When does the FMS automatically cancel a holding pattern change?",
+      31,
+      23,
+      -0.00378644019365304
+   ],
+   [
+      "What inputs does the Stall Protection System (SPS) use to calculate the AOA threshold for its functions?",
+      "What inputs does the Stall Protection System use to determine when to activate stall alert, stall protection, and auto-ignition?",
+      32,
+      6,
+      -0.015820927917957306
+   ],
+   [
+      "What modes does the Stall Protection System (SPS) have?",
+      "What are the functional modes of the Stall Protection System (SPS)?",
+      32,
+      10,
+      -0.013110938668250971
+   ],
+   [
+      "What is the relationship between the AOA of stall alert and stick pusher for Ice Advance Mode 1 and 2, and Ice Advance Mode 3 and ADVANCE ON Mode?",
+      "How does the Angle of Attack (AOA) threshold for stall alert and stick pusher compare between Ice Advance Mode 1/2 and Ice Advance Mode 3/ADVANCE ON Mode, relative to normal mode?",
+      32,
+      12,
+      -0.0017159938812256748
+   ],
+   [
+      "Where is this conditioned air ducted?",
+      "How is the bleed air, adjusted via the PACKs by the Integrated Air System Controllers (IASCs), ducted within the fully automatic Air conditioning system?",
+      33,
+      2,
+      -0.033776690065860815
+   ],
+   [
+      "What is mixed with the air from the mixing manifold?",
+      "What is mixed with the bleed air at the mixing manifold?",
+      33,
+      7,
+      -0.01806340366601944
+   ],
+   [
+      "What is done with this recirculated air?",
+      "What happens to the air extracted from the cabin by the recirculation fans?",
+      33,
+      10,
+      -0.021911422908306166
+   ],
+   [
+      "How is the air conditioning flow controlled?",
+      "How is the flow of air within the air conditioning system controlled and distributed?",
+      33,
+      11,
+      -0.00369213223457332
+   ],
+   [
+      "What are the components of the satellite datalink system?",
+      "What components make up the VHF datalink system, specifically mentioning the VHF model?",
+      34,
+      2,
+      -0.04868206828832622
+   ],
+   [
+      "What special parameters does it store?",
+      "What information is stored in the aircraft personality module?",
+      34,
+      11,
+      -0.02615780532360079
+   ],
+   [
+      "What indication appears after selecting the LSK PRINT option?",
+      "What is printed using the cockpit printer?",
+      34,
+      17,
+      -0.018470677733421315
+   ],
+   [
+      "What is the purpose of the HDG PUSH SYNC Pushbutton?",
+      "How is the heading reference set and what happens when it is active?",
+      35,
+      3,
+      -0.007304842770099684
+   ],
+   [
+      "What is the initial step required before an emergency evacuation slide can be used?",
+      "What is the initial step required before an emergency evacuation slide can be used after ditching?",
+      36,
+      6,
+      -0.01764213517308233
+   ],
+   [
+      "What action should the crew take if the emergency evacuation slide does not inflate automatically?",
+      "What is the manual procedure to inflate an emergency evacuation slide if it fails to deploy automatically?",
+      36,
+      12,
+      -0.020805388689041138
+   ],
+   [
+      "What are passengers prohibited from wearing during evacuation?",
+      "What items should passengers avoid wearing during an emergency evacuation?",
+      36,
+      13,
+      -0.07144748494029046
+   ],
+   [
+      "How many operating modes does the autobrake system have?",
+      "What is the purpose of the AUTOBRAKE Selector?",
+      37,
+      1,
+      -0.037574449181556724
+   ],
+   [
+      "When does it disarm after that?",
+      "When is the autobrake system disarmed after being armed?",
+      37,
+      7,
+      -0.008460945636034
+   ],
+   [
+      "To what position can the flaps/slats be extended using it, and what EICAS message appears?",
+      "What is the maximum extension position for the flaps/slats when using the FLP/SLT OVRD Switch, and what EICAS message will be displayed?",
+      38,
+      13,
+      -0.00452849268913269
+   ],
+   [
+      "When does the flap/slat interlock function become active?",
+      "What is the flap/slat interlock function?",
+      38,
+      14,
+      -0.009338295459747348
+   ],
+   [
+      "What happens during landing if the slats fail when extended at or below 10\u00b0?",
+      "What is the consequence during landing if the slats are stuck extended at or below 10\u00b0 due to a failure?",
+      38,
+      16,
+      -0.010917581617832184
+   ],
+   [
+      "Will the flaps/slats automatically retract if the aircraft speed increases to or beyond the placard speed of the current detent?",
+      "If the aircraft speed reaches or exceeds the placard speed for the current flap/slat detent, will they automatically retract?",
+      38,
+      25,
+      -0.000740499794483207
+   ],
+   [
+      "What is the limitation for flap/slat extension when the RAT is extended?",
+      "What is the effect of using the RAT as the sole electrical power source on flap/slat operation speed?",
+      38,
+      27,
+      -0.1110933602321893
+   ],
+   [
+      "And for \"Controls and Indications,\" what does it include?",
+      "What topics are covered under \"Controls and Indications\"?",
+      39,
+      2,
+      -0.0323004661127925
+   ],
+   [
+      "What type of engines does the ARJ21 aircraft utilize, and where are they mounted?",
+      "What are the main sections of the ARJ21 aircraft's POWER PLANT, and what topics are covered within the FADEC, Controls and Indications sections?",
+      39,
+      3,
+      -0.0026283621788025235
+   ],
+   [
+      "When does the \"L ENG SHUTDOWN COMMAND\" message appear, and what alerts are given for it?",
+      "What triggers the \"L ENG SHUTDOWN COMMAND\" message, and what aural and visual alerts are associated with it?",
+      39,
+      12,
+      -0.018450962007045768
+   ],
+   [
+      "What do the depressurization solenoids of the EDPs allow?",
+      "What is the function of the EDP depressurization solenoids?",
+      0,
+      5,
+      -0.0038841858506202254
+   ],
+   [
+      "What pages are displayed on the CDU when the VNAV Key is pressed?",
+      "What CDU pages are displayed when the VNAV key is pressed?",
+      0,
+      8,
+      -0.01644236594438553
+   ],
+   [
+      "What can also use the default or changed values on the CLIMB and DESCENT pages?",
+      "What pages on the CDU display default IAS and Mach TGT SPEED?",
+      0,
+      15,
+      -0.10110584050416949
+   ],
+   [
+      "How many individual VOR or DME NAVAID stations can be inhibited on it?",
+      "How many VOR or DME stations can be inhibited on the VOR/DME CONTROL page?",
+      1,
+      2,
+      -0.00838872939348212
+   ],
+   [
+      "What does the VNAV CLIMB page show by default?",
+      "How are VOR USE and DME USE controlled for the FMS position solution?",
+      1,
+      4,
+      -0.2355930924415589
+   ],
+   [
+      "What is a feature of the control wheels regarding their connection?",
+      "How can VOR use and/or DME use be enabled or disabled for the FMS position solution?",
+      1,
+      7,
+      -0.2326600790023804
+   ],
+   [
+      "Under what conditions do both ignitors automatically and continuously operate?",
+      "How is a secondary flight plan created, and what distinguishes its establishment from the ACT FPLN's, especially regarding the eventual change into an active flight plan and the origin of its departure/approach information?",
+      2,
+      4,
+      -0.3168871261179447
+   ],
+   [
+      "What happens when a warning level CAS message is triggered?",
+      "What actions are taken when an engine flameout or abnormal operation is detected?",
+      2,
+      7,
+      -0.21412138789892193
+   ],
+   [
+      "What triggers the two amber MASTER CAUTION pushbuttons to flash and illuminate?",
+      "What triggers the two red MASTER WARNING lights to flash and illuminate?",
+      2,
+      10,
+      -0.039550948143005304
+   ],
+   [
+      "What is their frequency range?",
+      "What is the frequency range for the aircraft's ADFs?",
+      3,
+      7,
+      -0.024301669001579262
+   ],
+   [
+      "What system does automatic pitch trim send a command to?",
+      "What system does the automatic pitch trim function interface with to send commands?",
+      3,
+      8,
+      -0.015561486780643508
+   ],
+   [
+      "When does the automatic pitch trim function activate?",
+      "What system does the automatic pitch trim command activate?",
+      3,
+      10,
+      -0.0021101400256157143
+   ],
+   [
+      "What is the purpose of approach reference operation?",
+      "What is the purpose of the Approach Reference operation on the RTU?",
+      3,
+      15,
+      -0.06529984474182127
+   ],
+   [
+      "How many pages does it have?",
+      "he new question according to the history conversations. Make sure the rewritten new question is concise and understandable without the history conversations.\nRewrite the new question in the format below:\nRewritten Question: How many pages does the RTU have?",
+      3,
+      16,
+      -0.07098255008459087
+   ],
+   [
+      "If the approach is to the ORIGIN airport, how are data input fields handled?",
+      "If the approach is to the ORIGIN airport, how are the data input fields handled when accessing the approach reference pages from the CDU?",
+      3,
+      19,
+      -0.03181043565273278
+   ],
+   [
+      "If the approach is to the DEST airport, do changes on these pages affect TAKEOFF REF pages?",
+      "If the approach is to the DESTINATION airport, do changes made on the approach reference pages affect the TAKEOFF REF pages?",
+      3,
+      20,
+      -0.010152089595794722
+   ],
+   [
+      "How is the parking brake powered?",
+      "What is the purpose of adjusting the blue nylon on the latch to release it?",
+      4,
+      2,
+      -0.38623115941882136
+   ],
+   [
+      "What is the function of the flight data recorder system?",
+      "What is the purpose of the flight data recorder system?",
+      4,
+      4,
+      -0.009358532726764679
+   ],
+   [
+      "What does the N2 red line indicate?",
+      "What is the purpose of the N2 red line?",
+      5,
+      4,
+      -0.03163660243153571
+   ],
+   [
+      "What is its value?",
+      "What is the value of the N2 limit?",
+      5,
+      5,
+      -0.044484077394008614
+   ],
+   [
+      "What does the Thrust Reverser Annunciation indicate on the EICAS?",
+      "What does the Thrust Reverser Annunciation indicate?",
+      6,
+      1,
+      -0.0010317891836166826
+   ],
+   [
+      "What color are its icons?",
+      "What are the possible digital readout colors for the N1 reference value and their meanings?",
+      6,
+      9,
+      -0.018116846680641174
+   ],
+   [
+      "When does this icon not display?",
+      "When does the TO, FLX, CLB, MCT, CRZ, GA, or MTO icon not display?",
+      6,
+      11,
+      -0.012499210238456737
+   ],
+   [
+      "What does a red FIRE icon indicate?",
+      "What is indicated by a red FIRE icon, and what is its priority compared to other annunciations?",
+      6,
+      13,
+      -0.007115242630243324
+   ],
+   [
+      "When is its value shown in red?",
+      "When is the N1 digital readout shown in red?",
+      6,
+      15,
+      -0.0417067766189575
+   ],
+   [
+      "How many radio altimeters is the aircraft equipped with?",
+      "How many radio altimeters are indicated on the EICAS?",
+      6,
+      20,
+      -0.10090235471725462
+   ],
+   [
+      "At what altitude does the Radio Altimeter (RA) automatically display the aircraft's height above ground?",
+      "What is the altitude at which the radio altimeter automatically displays height above ground?",
+      6,
+      22,
+      -0.03444884866476061
+   ],
+   [
+      "What kind of reference can be used for a fix?",
+      "What are the six types of fixes that can be entered on the FIX INFO page?",
+      7,
+      5,
+      -0.12699878662824626
+   ],
+   [
+      "Where is portable emergency oxygen equipment installed?",
+      "What information can be obtained from the FIX INFO page regarding a reference waypoint?",
+      7,
+      7,
+      -0.3544569864869118
+   ],
+   [
+      "What is the maximum steering angle of the nose wheel?",
+      "How many units of portable emergency oxygen equipment are installed in the panel behind the right pilot seat?",
+      7,
+      10,
+      -0.3345823175273836
+   ],
+   [
+      "What is it at the wing tips?",
+      "What is installed at the wing tips?",
+      7,
+      12,
+      -0.008223106712102884
+   ],
+   [
+      "What does the third VHF do after they are selected?",
+      "Once data service providers are selected via the VHF SCAN page, what is the function of the third VHF in data mode?",
+      8,
+      8,
+      -0.004526548087596893
+   ],
+   [
+      "When can a BIT test of the Stall Protection System be performed?",
+      "When can a Built-In Test (BIT) of the Stall Protection System be performed?",
+      9,
+      3,
+      -0.010118630528450079
+   ],
+   [
+      "What happens when the COM1 Transmit Select Button on the Audio Control Panel (ACP) is pressed?",
+      "How can the COM1 Transmit Select Button on the Audio Control Panel (ACP) be deselected?",
+      10,
+      2,
+      -0.023004297912120775
+   ],
+   [
+      "What does pressing the AUX Transmit Select Button do?",
+      "What happens when the AUX Transmit Select Button on the Audio Control Panel (ACP) is pressed?",
+      10,
+      3,
+      -0.027410848438739754
+   ],
+   [
+      "How can an engine start be aborted manually?",
+      "How can the engine start be manually aborted?",
+      10,
+      7,
+      -0.00348777472972861
+   ],
+   [
+      "When should it be aborted by pressing the Engine STOP Switch instead?",
+      "When would you abort an engine start by pressing the Engine STOP Switch instead of selecting the FUEL CONTROL Switch to the CUTOFF position?",
+      10,
+      8,
+      -0.0022359132766723855
+   ],
+   [
+      "What does the Vmo failure flag indicate on the Integrated Standby Instrument?",
+      "On the Integrated Standby Instrument, what does the Vmo failure flag indicate?",
+      11,
+      6,
+      -0.0029940322041510647
+   ],
+   [
+      "What happens if the computed crosswind component exceeds the maximum demonstrated value?",
+      "What does the system do if the computed crosswind component exceeds the maximum demonstrated value?",
+      11,
+      15,
+      -0.007623148709535621
+   ],
+   [
+      "How can alternate runway conditions be selected?",
+      "How is the runway wind entered and what is the restriction on crosswind entry?",
+      11,
+      17,
+      -0.03817550688982008
+   ],
+   [
+      "What unit of measure does PALT always use?",
+      "What unit of measure is used for PALT?",
+      11,
+      20,
+      -0.04514308720827104
+   ],
+   [
+      "When is the overspeed one active?",
+      "When is overspeed protection active for AP and AT?",
+      12,
+      1,
+      -0.013438056409359023
+   ],
+   [
+      "What are the bank and pitch attitude limits when AP is engaged?",
+      "What are the bank and pitch attitude limits when the Autopilot is engaged?",
+      12,
+      4,
+      -0.04947562068700789
+   ],
+   [
+      "How do you move the observer seat armrest to the vertical position?",
+      "How is the observer seat armrest moved to the vertical position?",
+      12,
+      5,
+      -0.007182618975639377
+   ],
+   [
+      "How is the Cross Bleed Valve (CBV) controlled when the BLEED AIR ISOL Switch is in AUTO?",
+      "When the BLEED AIR ISOL Switch is in AUTO, how is the Cross Bleed Valve (CBV) controlled?",
+      12,
+      10,
+      -0.0019324854016303794
+   ],
+   [
+      "What does the FROM waypoint allow the pilot to do?",
+      "What is the purpose of the FROM waypoint?",
+      13,
+      8,
+      -0.03325991034507747
+   ],
+   [
+      "Where does it appear on the ACT LEGS 1/X page?",
+      "Where does the radar vector and heading leg appear on the ACT LEGS 1/X page?",
+      13,
+      9,
+      -0.035248874127864815
+   ],
+   [
+      "What happens to waypoints between the current and new FROM waypoint if a down-track waypoint is selected as the new one?",
+      "If a down-track waypoint is selected as the new FROM waypoint, what happens to the waypoints between the current and the new FROM waypoint?",
+      13,
+      12,
+      -0.008152499794960022
+   ],
+   [
+      "How is landing gear emergency extension operated?",
+      "What is the function of the static inverter in supplying AC essential bus power after AC ESS3 BUS electrical power loss?",
+      14,
+      3,
+      -0.2871318951249122
+   ],
+   [
+      "What information does the APPROACH REF 4/4 page provide?",
+      "What are the specifications of the static inverter that supplies the AC essential bus?",
+      14,
+      9,
+      -0.3010973808355629
+   ],
+   [
+      "What about the Runway length limit weight?",
+      "What is the runway length limit weight?",
+      14,
+      14,
+      -0.009384754300117537
+   ],
+   [
+      "What can be supplied through the low pressure ground connection?",
+      "What can be supplied to the mixing manifold via the low pressure ground connection?",
+      15,
+      3,
+      -0.0006031319499015808
+   ],
+   [
+      "Under what conditions will the outflow valve be closed automatically regarding cabin altitude?",
+      "What is the function of the mixing manifold?",
+      15,
+      4,
+      -0.3489837095141411
+   ],
+   [
+      "What causes the primary flight control system to automatically revert from Normal Mode to Direct Mode?",
+      "What causes the outflow valve to close automatically when the cabin altitude exceeds 14500 ft?",
+      15,
+      8,
+      -0.22620928958058362
+   ],
+   [
+      "When can a FIX INFO be deleted?",
+      "What type of emergency exit door does the aircraft have?",
+      16,
+      3,
+      -0.45971421413123603
+   ],
+   [
+      "If I want to set the FLT ID on the ATC main page instead, how do I get there from the RTU main page?",
+      "How do you set the Flight ID on the RTU main page?",
+      16,
+      9,
+      -0.01786904335021977
+   ],
+   [
+      "After pressing the DATA BASE LSK, what page appears next?",
+      "After pressing the INDEX function key, what is the next page shown?",
+      17,
+      10,
+      -0.05792446583509442
+   ],
+   [
+      "What functions does the Stall Protection System provide?",
+      "What functions does the Stall Protection System provide, and what are the associated alerts and alert levels?",
+      17,
+      12,
+      -0.032522316277027175
+   ],
+   [
+      "What is the primary use of the navigation system?",
+      "What is the function of the MFD MAP DISPLAY sub-page in relation to navigation symbols and data?",
+      18,
+      8,
+      -0.2104505509138107
+   ],
+   [
+      "Where is the TOILET Occupied Annunciator located?",
+      "What is the normal electrical power supply for Flight Control Cabinet (FCC) 2?",
+      19,
+      8,
+      -0.24201809149235484
+   ],
+   [
+      "What does the OCCPD (Cyan) indication on it signify?",
+      "What does the OCCPD (Cyan) indication on the overhead panel signify?",
+      19,
+      9,
+      -0.0025463134050369707
+   ],
+   [
+      "How does the page display selections upon re-entry if a STAR, APPROACH, or RUNWAY has been chosen?",
+      "How does the display change if a STAR, APPROACH, or RUNWAY is selected?",
+      20,
+      5,
+      -0.14719536900520325
+   ],
+   [
+      "What is the Vertical Path Angle (VPA)?",
+      "How is the Vertical Path Angle (VPA) displayed on the ARRIVAL page?",
+      20,
+      7,
+      -0.04127706140279763
+   ],
+   [
+      "For which radio types is standby tuning available?",
+      "For which radio types is standby tuning available on the COM page?",
+      20,
+      10,
+      -0.004524219036102228
+   ],
+   [
+      "What is the first step for COM1 standby tuning from the top level display page?",
+      "How do you access the standby tuning function for COM1 from the top-level display page?",
+      20,
+      11,
+      -0.05759000927209845
+   ],
+   [
+      "Can this tuning method be performed elsewhere?",
+      "Can standby tuning of COM, HF, NAV, and ADF frequencies be performed from pages other than the top level display page?",
+      20,
+      14,
+      -0.01028235852718351
+   ],
+   [
+      "What information does the TAKEOFF selection display on the PERF MENU 1/2 Page?",
+      "How do you delete a discontinuity on the LEGS page and remove multiple legs that follow it, and what happens to the flight plan and intermediate waypoints in that case?",
+      21,
+      4,
+      -0.26770251393318173
+   ],
+   [
+      "What about for approach?",
+      "How do you delete a discontinuity on the APPROACH page?",
+      21,
+      6,
+      -0.09565923586487773
+   ],
+   [
+      "What are the steps included in CDU preparation?",
+      "What information is displayed on the PERF MENU 1/2 Page for takeoff and approach, and what is the purpose of the RTA and VNAV SETUP selections on the CDU?",
+      21,
+      10,
+      -0.06162610352039333
+   ],
+   [
+      "What information does the FMS ACT PROGRESS text page display?",
+      "What is the default cockpit and cabin temperature if the temperature knob fails?",
+      22,
+      4,
+      -0.3666217599064111
+   ],
+   [
+      "Which system is abbreviated as TCAS?",
+      "What does the abbreviation TCAS stand for?",
+      22,
+      9,
+      -0.0040712401270866505
+   ],
+   [
+      "What is required for the FMS to recognize a time offset fix point?",
+      "What are the different types of oil connections mentioned?",
+      23,
+      4,
+      -0.5721111593302339
+   ],
+   [
+      "And what do the utility lights provide illumination for?",
+      "What do the utility lights illuminate?",
+      23,
+      12,
+      -0.03098547384142869
+   ],
+   [
+      "What does USTB indicate?",
+      "What does the USTB annunciation indicate?",
+      24,
+      7,
+      -0.056465018540620804
+   ],
+   [
+      "Which bus's powered equipment list is described in this section?",
+      "Based on the provided information about weather radar annunciations, which bus's powered equipment list is described?",
+      24,
+      8,
+      -0.021939723193645566
+   ],
+   [
+      "What is the bus loss impact for the Fire and Overheat Control Unit (FOCU)?",
+      "What is the impact of a loss of power from the MAIN BATT DIR BUS on the Fire and Overheat Control Unit (FOCU)?",
+      24,
+      9,
+      -0.017562472820281894
+   ],
+   [
+      "What does the Autothrottle (AT) control in Speed Control Mode?",
+      "What is controlled by the Autothrottle in Speed Control Mode?",
+      24,
+      12,
+      -0.020556478202342965
+   ],
+   [
+      "What are the four tuning methods available for this?",
+      "What are the four methods for entering data on the RTU?",
+      25,
+      1,
+      -0.2016573190689087
+   ],
+   [
+      "Why does the FMS use wind values for three phases of flight?",
+      "What are the three phases of flight for which the FMS displays wind aloft values?",
+      25,
+      7,
+      -0.005810239911079429
+   ],
+   [
+      "What are some of the formats in which they can be entered?",
+      "What are the data entry formats for the RTU?",
+      25,
+      8,
+      -0.0953618358820677
+   ],
+   [
+      "What is required to apply for uploading WIND parameters and updating them in real-time?",
+      "What is required to upload and update wind parameters in real-time?",
+      25,
+      11,
+      -0.01223247572779651
+   ],
+   [
+      "What does the central warning system comprise?",
+      "What is shown in the figure regarding vertical Direct-To selection and when is it depicted?",
+      27,
+      2,
+      -0.34084530286490916
+   ],
+   [
+      "Where is the Display Control Panel (DCP) situated?",
+      "What does the central warning system comprise?",
+      27,
+      3,
+      -0.19985627159476282
+   ],
+   [
+      "What does the Crew Oxygen Quantity Indication show on the MFD Summary Page?",
+      "What information is displayed under the \"FUEL USED\" identifier on the FUEL MGMT 2/3 page, and what are the units for each component?",
+      28,
+      8,
+      -0.14251917153596877
+   ],
+   [
+      "What components make up the engine starting system?",
+      "What is the function of the MENU ADV/DATA knob in relation to PFD menu navigation?",
+      29,
+      6,
+      -0.35236492753028875
+   ],
+   [
+      "How is the Engine Starter powered and controlled?",
+      "How are the air turbine starter and start valve powered and controlled?",
+      29,
+      7,
+      -0.023891028761863775
+   ],
+   [
+      "According to ATA 21, which Integrated Air System Controller channel is powered by the R DC BUS?",
+      "What powers the R DC BUS?",
+      29,
+      10,
+      -0.07652705311775204
+   ],
+   [
+      "For ATA 31, which MFD heater is powered by this bus and would be inoperative?",
+      "For ATA 31, which MFD heater is powered by the R DC BUS and would be inoperative if it were lost?",
+      29,
+      17,
+      -0.010189281404018313
+   ],
+   [
+      "What is the maximum steering angle of the nose wheel?",
+      "What is the purpose of the Steering Handwheel?",
+      30,
+      4,
+      -0.09655463472008707
+   ],
+   [
+      "What is the minimum pavement width for a 180\u00b0 turn?",
+      "What is the minimum pavement width required to perform a 180\u00b0 turn?",
+      30,
+      7,
+      -0.010457193478941917
+   ],
+   [
+      "What function do ACT LEGS pages provide?",
+      "What happens when the Steering Handwheel is unfastened?",
+      30,
+      8,
+      -0.2963812202215194
+   ],
+   [
+      "What is the final step after making sure flight plan changes are correct?",
+      "What is the last action to initiate a go-direct maneuver from the ACT LEGS page?",
+      30,
+      12,
+      -0.02453413009643557
+   ],
+   [
+      "What is special about the STAB TRIM CUT OUT Switch's appearance?",
+      "What is the appearance of the STAB TRIM CUT OUT Switch?",
+      31,
+      4,
+      -0.003443576395511627
+   ],
+   [
+      "What kind of system is the Iridium satellite communication (SATCOM) system on an aircraft?",
+      "How does the Iridium SATCOM system function on an aircraft?",
+      31,
+      7,
+      -0.04622861444950105
+   ],
+   [
+      "What does it consist of?",
+      "What does the STAB TRIM CUT OUT Switch consist of?",
+      31,
+      9,
+      -0.040516302455216646
+   ],
+   [
+      "After that, what does TAWS calculate and assign?",
+      "After TAWS predicts the aircraft's altitude in 30 seconds based on its current Flight Path Angle, what is this predicted altitude referred to as?",
+      31,
+      12,
+      -0.014052045345306463
+   ],
+   [
+      "What is the Minimum Terrain Clearance Distance (MTCD) usually when enroute?",
+      "What is the minimum terrain clearance distance when enroute?",
+      31,
+      13,
+      -0.025016628578305222
+   ],
+   [
+      "When are CPA cautions triggered, and what is then displayed?",
+      "When are CPA cautions triggered, and what is then displayed on the synoptic page?",
+      31,
+      15,
+      -0.009613507986068748
+   ],
+   [
+      "And what color is used for a CPA Warning - Terrain Avoidance?",
+      "What color is used for a CPA Warning - Terrain Avoidance?",
+      31,
+      18,
+      -0.013229271769523598
+   ],
+   [
+      "What signals are triggered in the cockpit when it is pressed?",
+      "What happens in the cockpit when the PILOT Key on the Attendant Handset is pressed?",
+      32,
+      1,
+      -0.028473496437072754
+   ],
+   [
+      "How is a secondary flight plan inspected?",
+      "What are the signals triggered in the cockpit when the EMER Key on the attendant handset is pressed?",
+      32,
+      7,
+      -0.38529212921857836
+   ],
+   [
+      "For which radio types is standby tuning available?",
+      "How is VS Mode deselected, and what mode does it revert to?",
+      33,
+      4,
+      -0.37079356536269187
+   ],
+   [
+      "How many sliding windows are installed on the cockpit?",
+      "How is the VS reference changed?",
+      33,
+      8,
+      -0.25746703892946243
+   ],
+   [
+      "What happens to the vertical mode if the ALT Button is pressed?",
+      "How can the Altitude Hold Mode (ALT) be deselected?",
+      34,
+      4,
+      -0.00018168389797201812
+   ],
+   [
+      "What types of cockpit miscellaneous lighting are described?",
+      "What is the location of the ALT button?",
+      34,
+      6,
+      -0.33938508182764054
+   ],
+   [
+      "How do shorthand latitude and longitude entries differ from regular entries?",
+      "From what modes does the FMS operation mode change to cruise?",
+      35,
+      2,
+      -0.16874069124460223
+   ],
+   [
+      "Which letters are used to identify positions in the Northern Hemisphere?",
+      "Which letter is used to identify positions in the Northern Hemisphere?",
+      35,
+      4,
+      -0.004214210808277108
+   ],
+   [
+      "What does the INST FLOOD Dimming Knob do on the Right Instrument DIMMING Control Panel?",
+      "What function does the INST FLOOD Dimming Knob control?",
+      35,
+      7,
+      -0.03360239565372469
+   ],
+   [
+      "Which knob adjusts the brightness of the right PFD?",
+      "Which knob controls the INST FLOOD light on the Right Instrument DIMMING Control Panel?",
+      35,
+      8,
+      -0.0009544804692268594
+   ],
+   [
+      "What is notable about the display screens when these dimming knobs are in the OFF position?",
+      "What happens to the display screens when the INST FLOOD, R PFD, and R MFD dimming knobs are in the OFF position?",
+      35,
+      10,
+      -0.034549400210380554
+   ],
+   [
+      "Where is the Engine Maintenance Panel located?",
+      "What is the function of the Hand Microphone PTT Switch?",
+      36,
+      2,
+      -0.14996439889073376
+   ],
+   [
+      "Which switch on it is used to clear engine data?",
+      "Which switch on the overhead panel is used to clear engine data?",
+      36,
+      3,
+      -0.01441619843244557
+   ],
+   [
+      "Where is the WIPER Control Panel located?",
+      "What is the location of the WIPER Control Panel?",
+      36,
+      8,
+      -0.015348222106695175
+   ],
+   [
+      "How many separate partitions does the Hydraulic Control Logic Electronics (HCLE) have?",
+      "How is the Heading Select (HDG) Mode deselected?",
+      37,
+      3,
+      -0.23855940625071526
+   ],
+   [
+      "Is it allowed to turn on both ACMP switches of the No.3 hydraulic system simultaneously?",
+      "Can the ACMP switches for the No. 3 hydraulic system be set to AUTO simultaneously?",
+      37,
+      6,
+      -0.0015827938914299011
+   ],
+   [
+      "What steps are involved in setting the tuning mode to PRESET on the ADF main display page?",
+      "How do you set the ADF to its preset tuning mode?",
+      38,
+      11,
+      -0.004239243268966741
+   ],
+   [
+      "How is it opened?",
+      "How do you open the sliding window?",
+      39,
+      1,
+      -0.005099849402904533
+   ],
+   [
+      "Where is the EICAS Display (ED) located?",
+      "How do you open the sliding window?",
+      39,
+      2,
+      -0.34973498098552225
+   ],
+   [
+      "What does it display?",
+      "Where is the EICAS Display (ED) located and what does it display?",
+      39,
+      3,
+      -0.006078563630580902
+   ],
+   [
+      "What message might appear if the steering function is disarmed before it is pressed?",
+      "What message appears when the steering handwheel is disarmed and not pressed?",
+      39,
+      9,
+      -0.010087669640779562
+   ]
+]
